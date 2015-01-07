@@ -2,6 +2,9 @@
   "name": "react-autocomplete-temp-fork",
   "description": "Autocomplete component for React",
   "version": "1.0.0",
+  "dependencies": {
+    "deep-get-set": "^0.1.1"
+  },
   "devDependencies": {
     "browserify": "^4.1.9",
     "eslint-jsx": "git+https://github.com/andreypopp/eslint#jsx",
