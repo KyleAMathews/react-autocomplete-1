@@ -1,7 +1,7 @@
 {
   "name": "react-autocomplete-temp-fork",
   "description": "Autocomplete component for React",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "deep-get-set": "^0.1.1"
   },
